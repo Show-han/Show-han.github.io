@@ -30,13 +30,13 @@ Hi, I'm Zeyu Han, an undergrad student at Sichuan University, majoring in softwa
 
 I'm currently interested in large generative models such as large text-to-image diffusion models (DMs) and large language models (LLMs), as well as exploring their interactivity and controllability. And I'm also exploring the data-centric AI leveraging the strong capability of generative models. 
 
-Standing at the crossroads of the rapid growth of generative models, my long-term research goal is to consistently improve the quality, control, and safety of what is generated. I aim to offer every user a positive and equal experience with these models, further enhancing various real-world applications and bringing us a step closer to the dream of Artificial General Intelligence (AGI). 
+Standing at the crossroads of the rapid growth of generative models, my long-term research goal is to consistently improve the quality, control, and safety of what is generated. I aim to offer every human a positive and equal experience with these models, further enhancing various real-world applications and bringing us a step closer to the dream of Artificial General Intelligence (AGI). 
 
-Currently, I am focusing on but not limited to these research topics (feel free to contact me if you find possible collaboration opportunities! 😊😊):
+Currently, I am focusing on but not limited to these research topics (Please do reach out for any potential collaborative opportunities! 😊😊):
 
-- Tool-augmented LLMs
-- Data-centric AI with generative models
-- Generative models based applications (image reconstruction, AI healthcare, etc.)
+- Tool-augmented LLMs ([Gentopia](https://gentopia-ai.github.io/Gentopia-AI-Homepage/))
+- Data-centric AI empowered by generative models
+- Practical applications of generative models (image reconstruction, AI healthcare, etc.)
 
 # 🔥 News
 - *2023.08.05*: &nbsp;🎉🎉 My first personal website is established! I eagerly anticipate further research opportunities and publications will enrich its content!
