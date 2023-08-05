@@ -63,7 +63,7 @@ Currently, I am focusing on but not limited to these research topics (Please do 
 Jie Zeng<sup>*</sup>, **Zeyu Han<sup>*</sup>**, Xingchen Peng, Jianghong Xiao, Peng Wang, Yan Wang<sup>#</sup> (ISBI 2023)
 
 # 🎖 Honors and Awards
-- *2022.12, 2021.12*, National Scholarship for Encouragement, Sichuan University
+- *2022.12, 2021.12, 2020.12*, National Scholarship for Encouragement, Sichuan University
 
 # 📖 Educations
 - *2019.09 - 2024.06*, Undergraduate, Sichuan University
