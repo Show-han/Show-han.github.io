@@ -17,42 +17,86 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+# 🫠 About Me
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+Hi, I'm Zeyu Han, an undergrad student at Sichuan University, majoring in software engineering. I'm presently serving as a research intern at the NCSU Generative Intelligent Computing Lab under the guidance of [Dongkuan Xu](https://dongkuanx27.github.io/). Before that, I undertook a research intern in Sichuan University under the guidance of [Yan Wang](https://cs.scu.edu.cn/info/1359/16745.htm).
 
+## Ph.D. Aspirations
+
+<span style="color: red;">I'm actively seeking a Ph.D. position for Fall 2024, with the dream of joining a program in California. Wishing for good fortune on this academic journey!</span>
+
+
+## Research Interests
+
+I'm currently interested in large generative models such as large text-to-image diffusion models (DMs) and large language models (LLMs), as well as exploring their interactivity and controllability. And I'm also exploring the data-centric AI leveraging the strong capability of generative models. 
+
+Standing at the crossroads of the rapid growth of generative models, my long-term research goal is to consistently improve the quality, control, and safety of what is generated. I aim to offer every user a positive and equal experience with these models, further enhancing various real-world applications and bringing us a step closer to the dream of Artificial General Intelligence (AGI). 
+
+Currently, I am focusing on but not limited to these research topics (feel free to contact me if you find possible collaboration opportunities! 😊😊):
+
+- Tool-augmented LLMs
+- Data-centric AI with generative models
+- Generative models based applications (image reconstruction, AI healthcare, etc.)
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.08.05*: &nbsp;🎉🎉 My first personal website is established! I eagerly anticipate further research opportunities and publications will enrich its content!
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+(<sup>*</sup> indicates equal contribution;  <sup>#</sup> indicates corresponding authorship.) 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2023</div><img src='images/MICCAI2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Contrastive Diffusion Model with Auxiliary Guidance for Coarse-to-Fine PET Reconstruction](https://drive.google.com/file/d/1aV7waK-UADRcgL-Merqn3b1Kie3ePHcE/view?usp=drive_link) (MICCAI 2023)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Zeyu Han<sup>*</sup>**, Yuhan Wang<sup>*</sup>, Luping Zhou, Peng Wang, Binyu Yan, Jiliu Zhou, Yan Wang<sup>#</sup>, and Dinggang Shen<sup>#</sup>
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+
+[**code**](https://github.com/Show-han/PET-Reconstruction)
+- <span style="font-size: 0.8em; line-height: 0.7;">This paper presents a coarse-to-fine PET reconstruction framework using diffusion models. The coarse-to-fine design can significantly improve the overall sampling speed of our method. Furthermore, two additional strategies, i.e., an auxiliary guidance strategy and a contrastive diffusion strategy, are proposed and integrated into the reconstruction process, which can enhance the correspondence between the LPET image and the RPET image, further improving clinical reliability.</span>
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Polymerized Feature-based Domain Adaptation for Cervical Cancer Dose Map Prediction](https://drive.google.com/file/d/1bFBqi7c-BMb8Nl08QFZA3HK2dMF9dXP4/view?usp=drive_link), 
+Jie Zeng<sup>*</sup>, **Zeyu Han<sup>*</sup>**, Xingchen Peng, Jianghong Xiao, Peng Wang, Yan Wang<sup>#</sup> (ISBI 2023)
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.12, 2021.12*, National Scholarship for Encouragement, Sichuan University
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2019.09 - 2024.06*, Undergraduate, Sichuan University
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 🐝 Academic Services
+Reviewer
+- International Workshop on Resource-Efficient Learning for Knowledge Discovery (KDD 2023 workshop)
+- International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2023)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 🐾 Miscellaneous
+
+## Piano
+
+I enjoy playing piano in my spare time and upload some of my plays to [Bilibili](https://space.bilibili.com/36980576). Give me some likes and coins please! 😊😊
+
+## Cat
+
+I feed a lovely cat named Crescent. She is a British Shorthair and is very cute. Her mbti is infj (same as mine). I love her very much! 🥰🥰
+
+Some photos of her:
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+
+    <figure style="display: inline-block;">
+        <img src='images/cat1.png' alt="Cat" style="max-height: 200px; display: block; width: auto; box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.2); border: 1px solid #e0e0e0; box-sizing: border-box;">
+    </figure>
+
+      <figure style="display: inline-block;">
+        <img src='images/cat3.png' alt="Cat 3" style="max-height: 200px; display: block; width: auto; box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.2); border: 1px solid #e0e0e0; box-sizing: border-box;">
+    </figure>
+
+    <figure style="display: inline-block;">
+        <img src='images/cat2.png' alt="Cat 2" style="max-height: 200px; display: block; width: auto; box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.2); border: 1px solid #e0e0e0; box-sizing: border-box;">
+    </figure>
+
+
+</div>
