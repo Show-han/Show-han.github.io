@@ -28,9 +28,9 @@ Hi, I'm Zeyu Han, an undergrad student at Sichuan University, majoring in softwa
 
 ## Research Interests
 
-I'm currently interested in large generative models such as large text-to-image diffusion models (DMs) and large language models (LLMs), as well as exploring their interactivity and controllability. And I'm also exploring the data-centric AI leveraging the strong capability of generative models. 
+I'm currently interested in large generative models, such as large **text-to-image diffusion models** (DMs) and **large language models** (LLMs), as well as exploring their interactivity and controllability. I'm also exploring the data-centric AI leveraging the strong capability of generative models. 
 
-Standing at the crossroads of the rapid growth of generative models, my long-term research goal is to consistently improve the quality, control, and safety of what is generated. I aim to offer every human a positive and equal experience with these models, further enhancing various real-world applications and bringing us a step closer to the dream of Artificial General Intelligence (AGI). 
+Standing at the crossroads of the rapid growth of generative models, my long-term research aspiration is to consistently improve the quality, operability, and security of large model generated contents. My objective is to facilitate equitable access to these expansive models, thereby amplifying their impact across diverse real-world applications and bringing us a step closer to the dream of Artificial General Intelligence (AGI). 
 
 Currently, I am focusing on but not limited to these research topics (Please do reach out for any potential collaborative opportunities! 😊😊):
 
