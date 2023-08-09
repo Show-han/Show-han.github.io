@@ -93,7 +93,7 @@ I enjoy playing piano in my spare time and upload some of my plays to [Bilibili]
 
 ## Cat
 
-I feed a lovely cat named Crescent. She is a British Shorthair and is very cute. Her mbti is infj (same as mine). I love her very much! 🥰🥰
+I feed a lovely cat named Crescent. She is a American Shorthair and is very cute. Her mbti is infj (same as mine). I love her very much! 🥰🥰
 
 Some photos of her:
 <div style="display: flex; align-items: flex-start; gap: 20px;">
