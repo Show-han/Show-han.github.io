@@ -41,6 +41,20 @@ Currently, I am focusing on but not limited to these research topics (Please do 
 # 🔥 News
 - *2023.08.05*: &nbsp;🎉🎉 My first personal website is established! I eagerly anticipate further research opportunities and publications will enrich its content!
 
+# 📘 Preprints
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv preprints</div><img src='images/Gentopia.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Gentopia.AI: A Collaborative Platform for Tool-Augmented LLMs](https://arxiv.org/pdf/2308.04030.pdf)
+
+Binfeng Xu, Xukun Liu, Hua Shen, **Zeyu Han**, Yuhan Li, Murong Yue, Zhiyuan Peng, Yuchen Liu, Ziyu Yao, Dongkuan Xu
+
+[**project page**](https://gentopia-ai.github.io/Gentopia-AI-Homepage/)
+- <span style="font-size: 0.8em; line-height: 0.7;">This paper presents Gentopia, a lightweight and extensible framework for LLM-driven Agents and ALM research. It also maintains GentPool, a platform engineered to facilitate the registration and sharing of specialized agents, which seamlessly integrates GentBench, an ALM benchmark devised specifically for the comprehensive performance evaluation of agents.</span>
+</div>
+</div>
+
 # 📝 Publications 
 
 (<sup>*</sup> indicates equal contribution;  <sup>#</sup> indicates corresponding authorship.) 
@@ -51,8 +65,6 @@ Currently, I am focusing on but not limited to these research topics (Please do 
 [Contrastive Diffusion Model with Auxiliary Guidance for Coarse-to-Fine PET Reconstruction](https://drive.google.com/file/d/1aV7waK-UADRcgL-Merqn3b1Kie3ePHcE/view?usp=drive_link) (MICCAI 2023)
 
 **Zeyu Han<sup>*</sup>**, Yuhan Wang<sup>*</sup>, Luping Zhou, Peng Wang, Binyu Yan, Jiliu Zhou, Yan Wang<sup>#</sup>, and Dinggang Shen<sup>#</sup>
-
-
 
 [**code**](https://github.com/Show-han/PET-Reconstruction)
 - <span style="font-size: 0.8em; line-height: 0.7;">This paper presents a coarse-to-fine PET reconstruction framework using diffusion models. The coarse-to-fine design can significantly improve the overall sampling speed of our method. Furthermore, two additional strategies, i.e., an auxiliary guidance strategy and a contrastive diffusion strategy, are proposed and integrated into the reconstruction process, which can enhance the correspondence between the LPET image and the RPET image, further improving clinical reliability.</span>
