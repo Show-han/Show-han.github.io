@@ -23,19 +23,18 @@ Hi, I'm Zeyu Han, an undergrad student at Sichuan University, majoring in softwa
 
 ## Ph.D. Aspirations
 
-<span style="color: red;">I'm actively seeking a Ph.D. position for Fall 2024, with the dream of joining a program in California. Wishing for good fortune on this academic journey!</span>
+<span style="color: red;">I'm actively seeking a Ph.D. position for Fall 2024, with the dream of joining a program in California, New York or Boston. Wishing for good fortune on this academic journey!</span>
 
 
 ## Research Interests
 
-I'm currently interested in large generative models, such as **large language models** (LLMs) and **text-to-image diffusion models** (T2I DMs), as well as exploring their interactivity and controllability (tools, agents, etc.). I'm also exploring the data-centric AI leveraging the strong generation capability of generative models. 
-
-Standing at the crossroads of the rapid growth of generative models, my long-term research aspiration is to consistently improve the quality, operability, and security of large model generated contents. My objective is to facilitate equitable access to these expansive models, thereby amplifying their impact across diverse real-world applications and bringing us a step closer to the dream of Artificial General Intelligence (AGI). 
+Standing at the crossroads of the rapid growth of large models (LLMs, DPMs, etc.), my long-term research aspiration is to consistently improve their quality, efficiency, and security. My objective is to facilitate equitable access to these expansive models, thereby amplifying their impact across diverse real-world applications and bringing us a step closer to the dream of Artificial General Intelligence (AGI). 
 
 Currently, I am focusing on but not limited to these research topics (Please do reach out for any potential collaborative opportunities! 😊😊):
 
 - Tool-augmented LLMs ([Gentopia](https://gentopia-ai.github.io/Gentopia-AI-Homepage/))
-- Data-centric AI empowered by generative models
+- DNN acceleration
+- Visual grounding
 - Practical applications of generative models (image reconstruction, AI healthcare, etc.)
 
 # 🔥 News
@@ -62,7 +61,7 @@ Binfeng Xu, Xukun Liu, Hua Shen, **Zeyu Han**, Yuhan Li, Murong Yue, Zhiyuan Pen
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2023</div><img src='images/MICCAI2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Contrastive Diffusion Model with Auxiliary Guidance for Coarse-to-Fine PET Reconstruction](https://drive.google.com/file/d/1aV7waK-UADRcgL-Merqn3b1Kie3ePHcE/view?usp=drive_link) (MICCAI 2023)
+[Contrastive Diffusion Model with Auxiliary Guidance for Coarse-to-Fine PET Reconstruction](https://arxiv.org/abs/2308.10157) (MICCAI 2023)
 
 **Zeyu Han<sup>*</sup>**, Yuhan Wang<sup>*</sup>, Luping Zhou, Peng Wang, Binyu Yan, Jiliu Zhou, Yan Wang<sup>#</sup>, and Dinggang Shen<sup>#</sup>
 
@@ -71,7 +70,7 @@ Binfeng Xu, Xukun Liu, Hua Shen, **Zeyu Han**, Yuhan Li, Murong Yue, Zhiyuan Pen
 </div>
 </div>
 
-- [Polymerized Feature-based Domain Adaptation for Cervical Cancer Dose Map Prediction](https://drive.google.com/file/d/1bFBqi7c-BMb8Nl08QFZA3HK2dMF9dXP4/view?usp=drive_link), 
+- [Polymerized Feature-based Domain Adaptation for Cervical Cancer Dose Map Prediction](https://arxiv.org/abs/2308.10142), 
 Jie Zeng<sup>*</sup>, **Zeyu Han<sup>*</sup>**, Xingchen Peng, Jianghong Xiao, Peng Wang, Yan Wang<sup>#</sup> (ISBI 2023)
 
 # 🎖 Honors and Awards
