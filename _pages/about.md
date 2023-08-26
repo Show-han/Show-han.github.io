@@ -23,7 +23,7 @@ Hi, I'm Zeyu Han, an undergrad student at Sichuan University, majoring in softwa
 
 ## Ph.D. Aspirations
 
-<span style="color: red;">I'm actively seeking a Ph.D. position for Fall 2024, with the dream of joining a program in California, New York or Boston. Wishing for good fortune on this academic journey!</span>
+<span style="color: red;">I'm actively seeking a Ph.D. position for Fall 2024. Wishing for good fortune on this academic journey!</span>
 
 
 ## Research Interests
