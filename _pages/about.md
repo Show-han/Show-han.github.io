@@ -30,9 +30,9 @@ Hi, I'm Zeyu Han, an undergraduate student at Sichuan University, majoring in so
 
 My research focuses on the emerging paradigm of foundation models (large language models (LLMs), diffusion models, vision-language models, etc.). These models represent a shift towards larger, more capable, and general-purpose AI interfaces. My specific interests include:
 
-1. **Grounded Application with Foundation Models**: Exploring ways to utilize existing foundation models to create innovative, valuable, and practical applications, which can democratize to serve a broader range of people. My recent focus is on applications relevant to **multimodal models**.
+1. _**Grounded Application with Foundation Models**_: Exploring ways to utilize existing foundation models to create innovative, valuable, and practical applications, which can democratize to serve a broader range of people. My recent focus is on applications relevant to _**multimodal models**_.
 
-2. **Acceleration of Foundation Models**: Enhancing the computational efficiency of foundation models during both training stage (parameter-efficient fine-tuning (PEFT), training data efficiency, etc.) and inference stage (efficient architecture design, algorithm/hardware co-design, etc.). 
+2. _**Acceleration of Foundation Models**_: Enhancing the computational efficiency of foundation models during both training stage (parameter-efficient fine-tuning (PEFT), training data efficiency, etc.) and inference stage (efficient architecture design, algorithm/hardware co-design, etc.). 
 
 The general goal is to maximize the potential of foundation models, making them more accessible and efficient for various domain-specific applications.
 
