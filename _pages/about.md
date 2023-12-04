@@ -21,11 +21,6 @@ redirect_from:
 
 Hi, I'm Zeyu Han, an undergraduate student at Sichuan University, majoring in software engineering. Recently I'm serving as a research intern under the guidance of [Saiqian Zhang](https://saiqianzhang.com/) at New York University. Before that, I also worked with [Huaizu Jiang](https://jianghz.me/) at Northeastern University, [Dongkuan Xu](https://dongkuanx27.github.io/) at NC State University, and [Yan Wang](https://cs.scu.edu.cn/info/1359/16745.htm) at Sichuan University.
 
-## Ph.D. Aspirations
-
-<span style="color: darkred;">I'm looking for a Ph.D. position for Fall 2024. Wishing for good fortune on this academic journey!</span>
-
-
 ## Research Interests
 
 My research focuses on the emerging paradigm of foundation models (large language models (LLMs), diffusion models, vision-language models, etc.). These models represent a shift towards larger, more capable, and general-purpose AI interfaces. My specific interests include:
