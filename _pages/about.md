@@ -64,7 +64,7 @@ Currently, I am focusing on but not limited to these research topics:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2023</div><img src='images/Gentopia.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Gentopia.AI: A Collaborative Platform for Tool-Augmented LLMs](https://arxiv.org/pdf/2308.04030.pdf)
+[Gentopia.AI: A Collaborative Platform for Tool-Augmented LLMs](https://arxiv.org/pdf/2308.04030.pdf) (EMNLP 2023)
 
 Binfeng Xu, Xukun Liu, Hua Shen, **Zeyu Han**, Yuhan Li, Murong Yue, Zhiyuan Peng, Yuchen Liu, Ziyu Yao, Dongkuan Xu
 
