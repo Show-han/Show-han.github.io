@@ -19,36 +19,27 @@ redirect_from:
 
 # 🫠 About Me
 
-Hi, I'm Zeyu Han, an undergraduate student at Sichuan University, majoring in software engineering. Recently I'm serving as a research intern under the guidance of [Saiqian Zhang](https://saiqianzhang.com/) at New York University. Before that, I also worked with [Huaizu Jiang](https://jianghz.me/) at Northeastern University, [Dongkuan Xu](https://dongkuanx27.github.io/) at NC State University, and [Yan Wang](https://cs.scu.edu.cn/info/1359/16745.htm) at Sichuan University.
+I'm an incoming PhD student at Northeastern University (2024 fall) advised by [Huaizu Jiang](https://jianghz.me/). Recently I'm also working with [Saiqian Zhang](https://saiqianzhang.com/) at NYU. Before that, I received my Bachelor's degree in 2024 from Sichuan University, advised by [Yan Wang](https://cs.scu.edu.cn/info/1359/16745.htm).
 
 ## Research Interests
 
-My research focuses on the emerging paradigm of foundation models (large language models (LLMs), diffusion models, vision-language models, etc.). These models represent a shift towards larger, more capable, and general-purpose AI interfaces. My specific interests include:
+I'm interested in vision-language models, generated models (diffusion models, multimodal LLMs), 3D generation, model acceleration, practical applications of large foundation models, etc.
 
-1. _**Grounded Application with Foundation Models**_: Exploring ways to utilize existing foundation models to create innovative, valuable, and practical applications, which can democratize to serve a broader range of people. My recent focus is on applications relevant to _**multimodal models**_.
-
-2. _**Acceleration of Foundation Models**_: Enhancing the computational efficiency of foundation models during both training stage (parameter-efficient fine-tuning (PEFT), training data efficiency, etc.) and inference stage (efficient architecture design, algorithm/hardware co-design, etc.). 
-
-The general goal is to maximize the potential of foundation models, making them more accessible and efficient for various domain-specific applications.
-
-Currently, I am focusing on but not limited to these research topics:
-
-- DNN acceleration (PEFT methods)
-- Visual grounding
-- Tool-augmented LLMs ([Gentopia](https://gentopia-ai.github.io/Gentopia-AI-Homepage/))
-- Practical applications of generative models (image reconstruction, AI healthcare, etc.)
 
 # 🔥 News
+- *2024.02.27*: &nbsp;[Zero-shot REC](https://arxiv.org/pdf/2311.17048.pdf) accepted by CVPR 24'
 - *2023.11.29*: &nbsp;Feel free to check our new paper [Zero-shot REC](https://arxiv.org/pdf/2311.17048.pdf)
 - *2023.10.03*: &nbsp;Gentopia accepted by EMNLP 2023 system demo!
 - *2023.08.05*: &nbsp;🎉🎉 My first personal website is established! I eagerly anticipate further research opportunities and publications will enrich its content!
 
-# 📘 Preprints
+# 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv preprints</div><img src='images/cvpr24.png' alt="sym" width="100%"></div></div>
+(<sup>*</sup> indicates equal contribution;  <sup>#</sup> indicates corresponding authorship.) 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/cvpr24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Zero-shot Referring Expression Comprehension via Structural Similarity Between Images and Captions](https://arxiv.org/pdf/2311.17048.pdf)
+[Zero-shot Referring Expression Comprehension via Structural Similarity Between Images and Captions](https://arxiv.org/pdf/2311.17048.pdf) (CVPR 2024)
 
 **Zeyu Han**, Fangrui Zhu, Qianru Lao, Huaizu Jiang
 
@@ -56,10 +47,6 @@ Currently, I am focusing on but not limited to these research topics:
 - <span style="font-size: 0.8em; line-height: 0.7;">This paper presents a zero-shot referring expression comprehension method using several large foundation models, i.e., ChatGPT and Vision-Language Alignment models. We build a two-stage grounding pipeline that explicitly model the relationship between entities to refer visual objects.</span>
 </div>
 </div>
-
-# 📝 Publications 
-
-(<sup>*</sup> indicates equal contribution;  <sup>#</sup> indicates corresponding authorship.) 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2023</div><img src='images/Gentopia.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
