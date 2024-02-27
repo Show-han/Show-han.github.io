@@ -6,9 +6,6 @@ main:
   - title: "News"
     url: "/#-news"
 
-  - title: "Preprints"
-    url: "/#-preprints"
-
   - title: "Publications"
     url: "/#-publications"
 
