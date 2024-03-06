@@ -43,7 +43,7 @@ I'm interested in vision-language models, generated models (diffusion models, mu
 
 **Zeyu Han**, Fangrui Zhu, Qianru Lao, Huaizu Jiang
 
-[**code** (coming soon)]
+[**code**](https://github.com/Show-han/Zeroshot_REC)
 - <span style="font-size: 0.8em; line-height: 0.7;">This paper presents a zero-shot referring expression comprehension method using several large foundation models, i.e., ChatGPT and Vision-Language Alignment models. We build a two-stage grounding pipeline that explicitly model the relationship between entities to refer visual objects.</span>
 </div>
 </div>
