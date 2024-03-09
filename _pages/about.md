@@ -19,16 +19,15 @@ redirect_from:
 
 # 🫠 About Me
 
-I'm an incoming PhD student at Northeastern University (2024 fall) advised by [Huaizu Jiang](https://jianghz.me/). Recently I'm also working with [Saiqian Zhang](https://saiqianzhang.com/) at NYU. Before that, I received my Bachelor's degree in 2024 from Sichuan University, advised by [Yan Wang](https://cs.scu.edu.cn/info/1359/16745.htm).
+I'm an incoming PhD student at [Khoury College of Computer Sciences, Northeastern University](https://www.khoury.northeastern.edu/) (2024 fall) advised by [Huaizu Jiang](https://jianghz.me/). Recently I'm also working with [Saiqian Zhang](https://saiqianzhang.com/) at NYU. Before that, I received my Bachelor's degree in 2024 from Sichuan University, advised by [Yan Wang](https://cs.scu.edu.cn/info/1359/16745.htm).
 
 ## Research Interests
 
-I'm interested in vision-language models, generated models (diffusion models, multimodal LLMs), 3D generation, model acceleration, practical applications of large foundation models, etc.
+I'm interested in generated models (e.g., diffusion models, multimodal LLMs), 3D vision (e.g., 3D generation), model acceleration, practical applications of large foundation models, etc.
 
 
 # 🔥 News
-- *2024.02.27*: &nbsp;[Zero-shot REC](https://arxiv.org/pdf/2311.17048.pdf) accepted by CVPR 24'
-- *2023.11.29*: &nbsp;Feel free to check our new paper [Zero-shot REC](https://arxiv.org/pdf/2311.17048.pdf)
+- *2024.02.27*: &nbsp;[Zero-shot Referring Expression Comprehension via Structural Similarity Between Images and Captions](https://arxiv.org/pdf/2311.17048.pdf) accepted by CVPR 24'!
 - *2023.10.03*: &nbsp;Gentopia accepted by EMNLP 2023 system demo!
 - *2023.08.05*: &nbsp;🎉🎉 My first personal website is established! I eagerly anticipate further research opportunities and publications will enrich its content!
 
