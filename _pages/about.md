@@ -113,10 +113,6 @@ Some photos of her:
         <img src='images/cat1.png' alt="Cat" style="max-height: 200px; display: block; width: auto; box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.2); border: 1px solid #e0e0e0; box-sizing: border-box;">
     </figure>
 
-      <figure style="display: inline-block;">
-        <img src='images/cat3.png' alt="Cat 3" style="max-height: 200px; display: block; width: auto; box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.2); border: 1px solid #e0e0e0; box-sizing: border-box;">
-    </figure>
-
     <figure style="display: inline-block;">
         <img src='images/cat2.png' alt="Cat 2" style="max-height: 200px; display: block; width: auto; box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.2); border: 1px solid #e0e0e0; box-sizing: border-box;">
     </figure>
