@@ -118,15 +118,15 @@ Some photos of her:
     </figure>
 
     <figure style="display: inline-block;">
-        <img src='images/cat4.png' alt="Cat 4" style="max-height: 200px; display: block; width: auto; box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.2); border: 1px solid #e0e0e0; box-sizing: border-box;">
+        <img src='images/cat4.jpg' alt="Cat 4" style="max-height: 200px; display: block; width: auto; box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.2); border: 1px solid #e0e0e0; box-sizing: border-box;">
     </figure>
 
     <figure style="display: inline-block;">
-        <img src='images/cat5.png' alt="Cat 5" style="max-height: 200px; display: block; width: auto; box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.2); border: 1px solid #e0e0e0; box-sizing: border-box;">
+        <img src='images/cat5.jpg' alt="Cat 5" style="max-height: 200px; display: block; width: auto; box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.2); border: 1px solid #e0e0e0; box-sizing: border-box;">
     </figure>
 
     <figure style="display: inline-block;">
-        <img src='images/cat6.png' alt="Cat 6" style="max-height: 200px; display: block; width: auto; box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.2); border: 1px solid #e0e0e0; box-sizing: border-box;">
+        <img src='images/cat6.jpg' alt="Cat 6" style="max-height: 200px; display: block; width: auto; box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.2); border: 1px solid #e0e0e0; box-sizing: border-box;">
     </figure>
 
 
