@@ -35,12 +35,25 @@ I'm interested in generated models (e.g., diffusion models, multimodal LLMs), 3D
 
 (<sup>*</sup> indicates equal contribution;  <sup>#</sup> indicates corresponding authorship.) 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/peft_survey.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Parameter-Efficient Fine-Tuning for Large Models: A Comprehensive Survey](https://arxiv.org/pdf/2403.14608.pdf)
+
+**Zeyu Han**, Chao Gao, Jinyang Liu, [Jeff (Jun) Zhang](https://scholar.harvard.edu/jeff-jun-zhang/home), [Sai Qian Zhang](https://saiqianzhang.com/)
+
+- <span style="font-size: 0.8em; line-height: 0.7;">We conduct a comprehensive survey for PEFT methods in the context of large models. This survey includes basic taxonomy of PEFT methods, efficient PEFT design, applications on various models and downstream tasks, and real-world system design challenges. We hope this survey can enable readers of various levels and disciplines to swiftly grasp the core concepts of PEFT.
+</span>
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/cvpr24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Zero-shot Referring Expression Comprehension via Structural Similarity Between Images and Captions](https://arxiv.org/pdf/2311.17048.pdf) (CVPR 2024)
 
-**Zeyu Han**, Fangrui Zhu, Qianru Lao, Huaizu Jiang
+**Zeyu Han**, [Fangrui Zhu](https://fangruizhu.github.io/), [Qianru Lao](https://estherbear.github.io/), [Huaizu Jiang](https://jianghz.me/)
 
 [**code**](https://github.com/Show-han/Zeroshot_REC)
 - <span style="font-size: 0.8em; line-height: 0.7;">This paper presents a zero-shot referring expression comprehension method using several large foundation models, i.e., ChatGPT and Vision-Language Alignment models. We build a two-stage grounding pipeline that explicitly model the relationship between entities to refer visual objects.</span>
@@ -52,7 +65,7 @@ I'm interested in generated models (e.g., diffusion models, multimodal LLMs), 3D
 
 [Gentopia.AI: A Collaborative Platform for Tool-Augmented LLMs](https://arxiv.org/pdf/2308.04030.pdf) (EMNLP 2023 demo)
 
-Binfeng Xu, Xukun Liu, Hua Shen, **Zeyu Han**, Yuhan Li, Murong Yue, Zhiyuan Peng, Yuchen Liu, Ziyu Yao, Dongkuan Xu
+[Binfeng Xu](https://billxbf.github.io/), [Xukun Liu](https://www.emigroup.tech/index.php/member/xukun-liu/), [Hua Shen](https://hua-shen.org/), **Zeyu Han**, [Yuhan Li](https://twifor.github.io/), [Murong Yue](https://nlp.cs.gmu.edu/author/murong-yue/), [Zhiyuan Peng](https://jerrypeng21cuhk.github.io/), [Yuchen Liu](https://www.csc.ncsu.edu/people/yliu322), [Ziyu Yao](https://ziyuyao.org/), [Dongkuan Xu](https://dongkuanx27.github.io/)
 
 [**project page**](https://gentopia-ai.github.io/Gentopia-AI-Homepage/)
 - <span style="font-size: 0.8em; line-height: 0.7;">This paper presents Gentopia, a lightweight and extensible framework for LLM-driven Agents and ALM research. It also maintains GentPool, a platform engineered to facilitate the registration and sharing of specialized agents, which seamlessly integrates GentBench, an ALM benchmark devised specifically for the comprehensive performance evaluation of agents.</span>
@@ -64,15 +77,13 @@ Binfeng Xu, Xukun Liu, Hua Shen, **Zeyu Han**, Yuhan Li, Murong Yue, Zhiyuan Pen
 
 [Contrastive Diffusion Model with Auxiliary Guidance for Coarse-to-Fine PET Reconstruction](https://arxiv.org/abs/2308.10157) (MICCAI 2023)
 
-**Zeyu Han<sup>*</sup>**, Yuhan Wang<sup>*</sup>, Luping Zhou, Peng Wang, Binyu Yan, Jiliu Zhou, Yan Wang<sup>#</sup>, and Dinggang Shen<sup>#</sup>
+**Zeyu Han<sup>*</sup>**, [Yuhan Wang<sup>*</sup>](https://wyhlovecpp.github.io/), [Luping Zhou](https://sites.google.com/view/lupingzhou/home?authuser=0), Peng Wang, Binyu Yan, Jiliu Zhou, [Yan Wang<sup>#</sup>](https://cs.scu.edu.cn/info/1359/16745.htm), and [Dinggang Shen<sup>#</sup>](https://idea.bme.shanghaitech.edu.cn/)
 
 [**code**](https://github.com/Show-han/PET-Reconstruction)
 - <span style="font-size: 0.8em; line-height: 0.7;">This paper presents a coarse-to-fine PET reconstruction framework using diffusion models. The coarse-to-fine design can significantly improve the overall sampling speed of our method. Furthermore, two additional strategies, i.e., an auxiliary guidance strategy and a contrastive diffusion strategy, are proposed and integrated into the reconstruction process, which can enhance the correspondence between the LPET image and the RPET image, further improving clinical reliability.</span>
 </div>
 </div>
 
-- [Polymerized Feature-based Domain Adaptation for Cervical Cancer Dose Map Prediction](https://arxiv.org/abs/2308.10142), 
-Jie Zeng<sup>*</sup>, **Zeyu Han<sup>*</sup>**, Xingchen Peng, Jianghong Xiao, Peng Wang, Yan Wang<sup>#</sup> (ISBI 2023)
 
 # 🎖 Honors and Awards
 - *2022.12, 2021.12, 2020.12*, National Scholarship for Encouragement, Sichuan University
