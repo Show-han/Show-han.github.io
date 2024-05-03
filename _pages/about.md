@@ -93,8 +93,8 @@ I'm interested in generated models (e.g., diffusion models, multimodal LLMs), 3D
 
 # 🐝 Academic Services
 Reviewer
-- International Workshop on Resource-Efficient Learning for Knowledge Discovery (KDD 2023 workshop)
-- International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2023)
+- KDD 2023 workshop
+- ACM MM 2023
 
 # 🐾 Miscellaneous
 
