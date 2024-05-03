@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zeyu Han"
-description              : "Life is a wilderness, not a track"
+description              : "Do you like my cat?"
 repository               : "Show-han/Show-han.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zeyu Han (韩泽宇)"
   avatar           : "images/selfie.jpg"
-  bio              : "Incoming PhD student at NEU (2024 Fall), now undergrad at SCU"
-  location         : "Chengdu, Sichuan"
+  bio              : "CS PhD at NEU"
+  location         : "Boston"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=mA7pjecAAAAJ&hl=en&oi=sra"
