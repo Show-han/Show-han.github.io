@@ -38,7 +38,7 @@ I'm interested in generated models (e.g., diffusion models, multimodal LLMs), 3D
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/peft_survey.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Parameter-Efficient Fine-Tuning for Large Models: A Comprehensive Survey](https://arxiv.org/pdf/2403.14608.pdf)
+[Parameter-Efficient Fine-Tuning for Large Models: A Comprehensive Survey](https://arxiv.org/pdf/2403.14608.pdf) [机器之心](https://mp.weixin.qq.com/s/b16EPZ3z-LpGapGy2Q7ZUg) 
 
 **Zeyu Han**, Chao Gao, Jinyang Liu, [Jeff (Jun) Zhang](https://scholar.harvard.edu/jeff-jun-zhang/home), [Sai Qian Zhang](https://saiqianzhang.com/)
 
