@@ -38,11 +38,12 @@ I'm interested in generated models (e.g., diffusion models, multimodal LLMs), 3D
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/peft_survey.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Parameter-Efficient Fine-Tuning for Large Models: A Comprehensive Survey](https://arxiv.org/pdf/2403.14608.pdf) [机器之心](https://mp.weixin.qq.com/s/b16EPZ3z-LpGapGy2Q7ZUg) 
+[Parameter-Efficient Fine-Tuning for Large Models: A Comprehensive Survey](https://arxiv.org/pdf/2403.14608.pdf) 
 
 **Zeyu Han**, Chao Gao, Jinyang Liu, [Jeff (Jun) Zhang](https://scholar.harvard.edu/jeff-jun-zhang/home), [Sai Qian Zhang](https://saiqianzhang.com/)
 
-- <span style="font-size: 0.8em; line-height: 0.7;">We conduct a comprehensive survey for PEFT methods in the context of large models. This survey includes basic taxonomy of PEFT methods, efficient PEFT design, applications on various models and downstream tasks, and real-world system design challenges. We hope this survey can enable readers of various levels and disciplines to swiftly grasp the core concepts of PEFT.
+- <span style="font-size: 0.8em; line-height: 0.7;"><a href="https://mp.weixin.qq.com/s/b16EPZ3z-LpGapGy2Q7ZUg" style="color: darkred;">[机器之心] </a>
+We conduct a comprehensive survey for PEFT methods in the context of large models. This survey includes basic taxonomy of PEFT methods, efficient PEFT design, applications on various models and downstream tasks, and real-world system design challenges. We hope this survey can enable readers of various levels and disciplines to swiftly grasp the core concepts of PEFT.
 </span>
 </div>
 </div>
