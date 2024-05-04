@@ -94,7 +94,7 @@ I'm interested in generated models (e.g., diffusion models, multimodal LLMs), 3D
 # 🐝 Academic Services
 Reviewer
 - KDD 2023 workshop
-- ACM MM 2023
+- ACM MM 2024
 
 # 🐾 Miscellaneous
 
