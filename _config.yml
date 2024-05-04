@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zeyu Han"
-description              : "Do you like my cat?"
+description              : "CS PhD at NEU"
 repository               : "Show-han/Show-han.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zeyu Han (韩泽宇)"
   avatar           : "images/selfie.jpg"
-  bio              : "CS PhD at NEU"
+  bio              : "Do you like my cat?"
   location         : "Boston"
   employer         :
   pubmed           : 
