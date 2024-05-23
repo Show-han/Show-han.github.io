@@ -19,7 +19,7 @@ redirect_from:
 
 # 🫠 About Me
 
-I'm an incoming PhD student at [Khoury College of Computer Sciences, Northeastern University](https://www.khoury.northeastern.edu/) (2024 fall) advised by [Huaizu Jiang](https://jianghz.me/). Recently I'm also working with [Saiqian Zhang](https://saiqianzhang.com/) at NYU. Before that, I received my Bachelor's degree in 2024 from Sichuan University, advised by [Yan Wang](https://cs.scu.edu.cn/info/1359/16745.htm).
+I'm an incoming PhD student at [Khoury College of Computer Sciences, Northeastern University](https://www.khoury.northeastern.edu/) (2024 fall) advised by [Huaizu Jiang](https://jianghz.me/). Before that, I received my Bachelor's degree in 2024 from Sichuan University, advised by [Yan Wang](https://cs.scu.edu.cn/info/1359/16745.htm). I also worked with [Sai Qian Zhang](https://saiqianzhang.com/) at New York University. 
 
 ## Research Interests
 
@@ -27,8 +27,8 @@ I'm interested in generated models (e.g., diffusion models, multimodal LLMs), 3D
 
 
 # 🔥 News
-- *2024.02.27*: &nbsp;[Zero-shot Referring Expression Comprehension via Structural Similarity Between Images and Captions](https://arxiv.org/pdf/2311.17048.pdf) accepted by CVPR 24'!
-- *2023.10.03*: &nbsp;Gentopia accepted by EMNLP 2023 system demo!
+- *2024.02.27*: &nbsp;[One first-authored paper](https://arxiv.org/pdf/2311.17048.pdf) accepted by CVPR 24'!
+- *2023.10.03*: &nbsp;[One paper](https://arxiv.org/pdf/2308.04030.pdf) accepted by EMNLP 2023 System Demonstration!
 - *2023.08.05*: &nbsp;🎉🎉 My first personal website is established! I eagerly anticipate further research opportunities and publications will enrich its content!
 
 # 📝 Publications 
@@ -63,7 +63,7 @@ I'm interested in generated models (e.g., diffusion models, multimodal LLMs), 3D
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2023</div><img src='images/Gentopia.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Gentopia.AI: A Collaborative Platform for Tool-Augmented LLMs](https://arxiv.org/pdf/2308.04030.pdf) (EMNLP 2023 demo)
+[Gentopia.AI: A Collaborative Platform for Tool-Augmented LLMs](https://arxiv.org/pdf/2308.04030.pdf) (EMNLP 2023 System Demo)
 
 [Binfeng Xu](https://billxbf.github.io/), [Xukun Liu](https://www.emigroup.tech/index.php/member/xukun-liu/), [Hua Shen](https://hua-shen.org/), **Zeyu Han**, [Yuhan Li](https://twifor.github.io/), [Murong Yue](https://nlp.cs.gmu.edu/author/murong-yue/), [Zhiyuan Peng](https://jerrypeng21cuhk.github.io/), [Yuchen Liu](https://www.csc.ncsu.edu/people/yliu322), [Ziyu Yao](https://ziyuyao.org/), [Dongkuan Xu](https://dongkuanx27.github.io/)
 
@@ -89,6 +89,7 @@ I'm interested in generated models (e.g., diffusion models, multimodal LLMs), 3D
 - *2022.12, 2021.12, 2020.12*, National Scholarship for Encouragement, Sichuan University -->
 
 # 📖 Educations
+- *2024.09 - present*, PhD, Northeastern University
 - *2019.09 - 2024.06*, Undergraduate, Sichuan University
 
 # 🐝 Academic Services
