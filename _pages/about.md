@@ -27,8 +27,8 @@ I'm interested in generated models (e.g., diffusion models, multimodal LLMs), 3D
 
 
 # 🔥 News
-- *2024.02.27*: &nbsp;[One first-authored paper](https://arxiv.org/pdf/2311.17048.pdf) accepted by CVPR '24!
-- *2023.10.03*: &nbsp;[One paper](https://arxiv.org/pdf/2308.04030.pdf) accepted by EMNLP '23 System Demonstration!
+- *2024.02.27*: &nbsp;[One first-authored paper](https://arxiv.org/pdf/2311.17048.pdf) accepted by CVPR 2024!
+- *2023.10.03*: &nbsp;[One paper](https://arxiv.org/pdf/2308.04030.pdf) accepted by EMNLP 2023 System Demonstration!
 - *2023.08.05*: &nbsp;🎉🎉 My first personal website is established! I eagerly anticipate further research opportunities and publications will enrich its content!
 
 # 📝 Publications 
