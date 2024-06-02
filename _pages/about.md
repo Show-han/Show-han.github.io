@@ -19,11 +19,11 @@ redirect_from:
 
 # 🫠 About Me
 
-I'm an incoming PhD student at [Khoury College of Computer Sciences, Northeastern University](https://www.khoury.northeastern.edu/) (2024 fall) advised by [Huaizu Jiang](https://jianghz.me/). Before that, I received my Bachelor's degree in 2024 from Sichuan University, advised by [Yan Wang](https://cs.scu.edu.cn/info/1359/16745.htm). I also worked with [Sai Qian Zhang](https://saiqianzhang.com/) at New York University. 
+Incoming PhD student at [Khoury College of Computer Sciences, Northeastern University](https://www.khoury.northeastern.edu/) (2024 fall) advised by [Huaizu Jiang](https://jianghz.me/). 
 
 ## Research Interests
 
-I'm interested in generated models (e.g., diffusion models, multimodal LLMs), 3D vision (e.g., 3D generation), model acceleration, practical applications of large foundation models, etc.
+Generated models (e.g., diffusion models, multimodal LLMs), 3D vision (e.g., 3D generation), model acceleration, practical applications of large foundation models, etc.
 
 
 # 🔥 News
@@ -97,7 +97,6 @@ Reviewer
 - NeurIPS 2024
 - ACM MM 2024
 - KDD 2023 workshop
-
 
 # 🐾 Miscellaneous
 
